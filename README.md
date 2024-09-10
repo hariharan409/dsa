@@ -1,3 +1,5 @@
+ALGORITHMS AND THE DEFINITIONS
+
 Floyd's Cycle-Finding Algorithm, also known as the Tortoise and Hare Algorithm : 
 
 It is a two-pointer technique used to detect cycles in a sequence, typically within a linked list. The algorithm is efficient, running in O(n) time with O(1) space, making it a popular choice for this kind of problem.
